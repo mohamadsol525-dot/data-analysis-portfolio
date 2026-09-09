@@ -172,6 +172,10 @@ This visualization provides a focused view of seasonal sales performance during 
 
 [View the Full Project Report (PDF)](./Project-02-Report.pdf)
 
+## Author
+
+**Mohammad Amin Mohammadi Ahoui**
+
 ## Repository Structure
 
 ```text
