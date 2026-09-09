@@ -79,7 +79,7 @@ These differences can support more targeted decisions in:
 
 ## Full Report
 
-[View the Full Project Report (PDF)](./Project-01-Report.pdf)
+[View the Full Project Report (PDF)](./Project-01.pdf)
 
 ## Author
 
