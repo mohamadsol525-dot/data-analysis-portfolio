@@ -42,7 +42,7 @@ The project uses a structured exploratory data analysis approach covering:
 
 ### 2. Casual vs. Registered Relationship
 
-![Casual vs Registered](./images/fig02_casual_vs_registered.png)
+![Casual vs Registered](./images/Casual & Registered vs. Temp with Smooth Fit.png)
 
 ### 3. Working Day Pattern
 
