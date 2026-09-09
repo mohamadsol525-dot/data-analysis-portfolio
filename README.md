@@ -85,8 +85,11 @@ The projects follow a consistent analytical workflow:
 
 The goal is not only to describe what happened in the data, but to identify **why patterns matter and what they may imply for business decisions**.
 
-## Repository Structure
+## Author
 
+**Mohammad Amin Mohammadi Ahoei**
+
+## Repository Structure
 ```text
 data-analysis-portfolio/
 │
