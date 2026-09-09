@@ -34,18 +34,22 @@ The project uses a structured exploratory data analysis approach covering:
 - Temperature was the strongest weather-related variable associated with demand, with correlations of approximately **0.54** for both customer groups.
 - During Hurricane Sandy, total daily demand fell from **8,090 to 22 trips**, a **99.7% decline**.
 
-## Selected Visual Insights
+## Visual Highlights
 
-### Annual Growth
+### 1. Annual Growth
+
 ![Annual Growth](./images/fig01_annual_growth.png)
 
-### Customer Segment Relationship
+### 2. Casual vs. Registered Relationship
+
 ![Casual vs Registered](./images/fig02_casual_vs_registered.png)
 
-### Working Day Behavior
+### 3. Working Day Pattern
+
 ![Working Day Pattern](./images/fig05_workingday_pattern.png)
 
-### 24-Month Demand Trend
+### 4. 24-Month Demand Trend
+
 ![Monthly Trend](./images/fig13_monthly_trend.png)
 
 ## Business Insights
