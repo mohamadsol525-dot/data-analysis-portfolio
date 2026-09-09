@@ -174,7 +174,7 @@ This visualization provides a focused view of seasonal sales performance during 
 
 ## Author
 
-**Mohammad Amin Mohammadi Ahoui**
+**Mohammad Amin Mohammadi Ahoei**
 
 ## Repository Structure
 
