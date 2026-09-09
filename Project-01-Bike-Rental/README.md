@@ -36,21 +36,21 @@ The project uses a structured exploratory data analysis approach covering:
 
 ## Visual Highlights
 
-### 1. Annual Growth
+### 1. Casual vs. Registered Relationship
 
-![Annual Growth](./images/fig01_annual_growth.png)
+![Casual vs. Registered](./images/Casual%20vs.%20Registered.png)
 
-### 2. Casual vs. Registered Relationship
+### 2. Mean Casual & Registered by Year and Month
 
-![Casual vs Registered](./images/Casual & Registered vs. Temp with Smooth Fit.png)
+![Mean Casual & Registered by Year and Month](./images/Mean%20Casual%20%26%20Registered%20by%20Year%20and%20Month.png)
 
-### 3. Working Day Pattern
+### 3. Mean Casual & Registered vs. Hour by Working Day
 
-![Working Day Pattern](./images/fig05_workingday_pattern.png)
+![Mean Casual & Registered vs. Hour by Working Day](./images/Mean%20Casual%20%26%20Registered%20vs.%20Hour%20by%20Working%20Day.png)
 
-### 4. 24-Month Demand Trend
+### 4. Mean Casual & Registered vs. Year
 
-![Monthly Trend](./images/fig13_monthly_trend.png)
+![Mean Casual & Registered vs. Year](./images/Mean%20casual%20%26%20registered%20vs%20yr.png)
 
 ## Business Insights
 
