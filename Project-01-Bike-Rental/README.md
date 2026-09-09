@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes two full years of bike-sharing data (2011–2012) using **JMP** to uncover customer behavior patterns, demand drivers, and business insights.
+This project analyzes two full years of bike-sharing data from **2011 to 2012** using **JMP** to identify customer behavior patterns, demand drivers, and business insights.
 
 The analysis focuses on two customer segments — **Casual** and **Registered** — and examines how their behavior changes across time, weekdays, seasons, weather conditions, and extreme events.
 
@@ -10,9 +10,11 @@ The analysis focuses on two customer segments — **Casual** and **Registered** 
 
 **Do Casual and Registered users behave as one customer segment, or do they represent two distinct behavioral groups?**
 
-## Analytical Approach
+## Analytical Framework
 
-The project uses a structured exploratory data analysis approach covering:
+The analysis follows a structured exploratory data analysis approach, moving from overall customer behavior to temporal patterns, environmental factors, and extreme events.
+
+The main analytical areas include:
 
 - Customer segmentation
 - Annual growth analysis
@@ -25,14 +27,25 @@ The project uses a structured exploratory data analysis approach covering:
 - Extreme weather event analysis
 - Long-term growth patterns
 
+## Key Performance Indicators
+
+The analysis evaluates demand using:
+
+- Casual Users
+- Registered Users
+- Total Demand
+- Average Demand
+- Customer Segment Share
+- Correlation and Regression Metrics
+
 ## Key Findings
 
-- The relationship between Casual and Registered demand was relatively weak (**R² = 0.156**), suggesting substantially different demand patterns.
-- Registered users grew by approximately **68%**, compared with **50%** for Casual users between 2011 and 2012.
+- Casual and Registered demand showed a relatively weak relationship, with **R² = 0.156**, indicating substantially different demand patterns.
+- Registered users grew by approximately **68%**, compared with **50% growth for Casual users** between 2011 and 2012.
 - Casual users' share of total demand declined from **18.1% to 17%**, despite strong absolute growth.
 - Registered users showed strong commuting-oriented peaks around **08:00 and 17:00**, particularly on working days.
 - Temperature was the strongest weather-related variable associated with demand, with correlations of approximately **0.54** for both customer groups.
-- During Hurricane Sandy, total daily demand fell from **8,090 to 22 trips**, a **99.7% decline**.
+- During Hurricane Sandy, total daily demand fell from **8,090 to 22 trips**, representing a **99.7% decline**.
 
 ## Visual Highlights
 
@@ -66,16 +79,28 @@ These differences can support more targeted decisions in:
 - Marketing strategy
 - Operational planning under adverse weather conditions
 
+## Analytical Skills Demonstrated
+
+- Exploratory Data Analysis
+- Customer Segmentation
+- Trend Analysis
+- Correlation Analysis
+- Time-Based Analysis
+- Seasonal Analysis
+- Weather Impact Analysis
+- Comparative Analysis
+- Business Insight Generation
+- Data Visualization
+
 ## Tools
 
 **JMP · Exploratory Data Analysis · Statistical Analysis · Data Visualization**
 
-## Dataset
+## Project Scope
 
-- **Period:** 2011–2012
-- **Daily records:** 731
-- **Hourly records:** 17,379
-- **Customer segments:** Casual, Registered
+**Period:** 2011–2012  
+**Industry:** Bike Sharing / Urban Mobility  
+**Focus:** Customer Behavior, Demand Patterns & Business Insights
 
 ## Full Report
 
@@ -84,3 +109,17 @@ These differences can support more targeted decisions in:
 ## Author
 
 **Mohammad Amin Mohammadi Ahoui**
+
+## Repository Structure
+
+```text
+Project-01-Bike-Rental/
+│
+├── README.md
+├── Project-01.pdf
+│
+└── images/
+    ├── Casual vs. Registered.png
+    ├── Mean Casual & Registered by Year and Month.png
+    ├── Mean Casual & Registered vs. Hour by Working Day.png
+    └── Mean casual & registered vs yr.png
