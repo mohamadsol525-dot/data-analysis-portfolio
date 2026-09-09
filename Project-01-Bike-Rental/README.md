@@ -108,7 +108,7 @@ These differences can support more targeted decisions in:
 
 ## Author
 
-**Mohammad Amin Mohammadi Ahoui**
+**Mohammad Amin Mohammadi Ahoei**
 
 ## Repository Structure
 
