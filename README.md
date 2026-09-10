@@ -104,6 +104,3 @@ data-analysis-portfolio/
 │   └── images/
 │
 └── README.md
-برای Project-01، گزارش خودش هم تأکید می‌کند که تحلیل با داده‌های ۲۰۱۱–۲۰۱۲ و تمرکز بر دو گروه Casual و Registered انجام شده است؛ برای Project-02 نیز دوره ۱۳۹۹–۱۴۰۱ و تحلیل فروش در سطوح محصول، کانال، ویزیتور و مشتری محور اصلی گزارش است. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
-
-حالا این متن را در **README اصلی Repository `data-analysis-portfolio`** جایگزین کن.
